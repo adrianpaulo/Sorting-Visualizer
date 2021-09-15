@@ -1,6 +1,3 @@
-COP4531: Programming Assignment 1 README
-Due date: March 26, 2021
-
 Name: Adrian Balbuena
 
 ---------------------------------------------
